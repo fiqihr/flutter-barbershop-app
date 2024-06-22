@@ -1,16 +1,14 @@
-# barbershop
+# BarberMate Flutter App
+---
 
-A new Flutter project.
+![Barbermate App](https://github.com/fiqihr/flutter-barbershop-app/assets/75562356/58db211a-7ea7-4eea-8ba9-7695e502c4c4)
 
-## Getting Started
+BarberMate is an online barbershop service ordering application. </br>
+In this application, customers can register an account, book services, and also manage their orders.</br>
+This application was created using the Flutter programming language and uses a MySQL database.</br>
+Also, this application is related to the barbershop admin website application because the backend configuration process is there. 
 
-This project is a starting point for a Flutter application.
+<a href="https://github.com/fiqihr/barbershop-app">Barbershop Admin Website</a>
 
-A few resources to get you started if this is your first Flutter project:
+And this application uses the same database as the barbershop admin website application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
